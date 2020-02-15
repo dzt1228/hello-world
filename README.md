@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+print(44444)
